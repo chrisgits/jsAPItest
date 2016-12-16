@@ -1,6 +1,7 @@
 body {
   font-size: 20px;
   background-color: rgb(29,29,29);
+  /*background-color: red;*/
 }
 
 .avatar img {
@@ -31,7 +32,7 @@ h1 {
 
 .label {
   display: inline-block;
-  padding: .5em;
+  padding: .5em; 
   margin-bottom: .5em;
   margin-right: .5em;
 }
